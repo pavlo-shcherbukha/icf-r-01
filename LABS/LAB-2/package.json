@@ -1,0 +1,23 @@
+{
+  "name": "think2020-wa",
+  "version": "1.0.0",
+  "description": "**Подготовка прототипов на ThinkKyiv-2020  по watson assistant**",
+  "main": "./func/f3.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://Pavlo-Shcherbukha:72a6e539bc84d94abee4c95e6a3a46741c4cd6d8@github.ibm.com/Pavlo-Shcherbukha/think2020-wa.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "chai": "^4.2.0",
+    "mocha": "^8.0.1",
+    "needle": "^2.5.0",
+    "querystring": "^0.2.0",
+    "supertest": "^4.0.2"
+  }
+}

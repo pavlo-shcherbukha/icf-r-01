@@ -1,0 +1,20 @@
+{
+  "name": "bnkapi-customer",
+  "version": "1.0.0",
+  "description": "ibm-cloud functions sourses",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@cloudant/cloudant": "^4.3.0",
+    "axios": "^0.19.2",
+    "chai": "^4.2.0",
+    "mocha": "^8.0.1",
+    "needle": "^2.5.0",
+    "querystring": "^0.2.0",
+    "supertest": "^4.0.2"
+  }
+}

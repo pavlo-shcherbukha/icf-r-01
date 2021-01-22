@@ -1,0 +1,23 @@
+﻿packages:
+  demo-lab02-1:
+    version: 1.0
+    license: Apache-2.0
+    actions:
+      getConvertCCY:
+        function: NbuServices/getConvertCCY.js
+        runtime: nodejs
+        web-export: false
+      getCurrentExchRate:
+        function: NbuServices/getCurrentExchRate.js
+        runtime: nodejs
+        web-export: false
+      getExchRateByCCY:
+        function: NbuServices/getExchRateByCCY.js
+        runtime: nodejs
+        web-export: false
+      getExchRateByDate:
+        function: NbuServices/getExchRateByDate.js
+        runtime: nodejs
+        web-export: false
+
+
