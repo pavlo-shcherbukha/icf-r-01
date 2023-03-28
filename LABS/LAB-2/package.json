@@ -13,7 +13,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.2",
     "chai": "^4.2.0",
     "mocha": "^8.0.1",
     "needle": "^2.5.0",
